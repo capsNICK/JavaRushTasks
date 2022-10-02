@@ -15,7 +15,7 @@ public class Solution {
         int[] array = new int[n];
         
         for (int i = 0; i < n; i++) {
-            array[i] = console.nextInt();
+            array[i] = console.nextInt(); //test_1
         }
         
     }
